@@ -13,3 +13,10 @@ def link
   phraselink = "It's Dangerous To Go Alone! Take This.\n"
   puts phraselink
 end
+
+def all_phrases
+  mario
+  toadstool
+  link
+  puts mario, toadstool, link
+end
