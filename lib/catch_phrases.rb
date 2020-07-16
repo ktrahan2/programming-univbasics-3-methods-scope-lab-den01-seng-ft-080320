@@ -10,4 +10,4 @@ def toadstool
 end
 
 def link
-  phraselink = 'It's Dangerous To Go Alone! Take This.'
+  phraselink = 'It\'s Dangerous To Go Alone! Take This.'
