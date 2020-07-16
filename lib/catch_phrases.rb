@@ -11,4 +11,5 @@ end
 
 def link
   phraselink = "It's Dangerous To Go Alone! Take This.\n"
+  puts phraselink
 end
